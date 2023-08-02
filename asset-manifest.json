@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/adityak14.github.io%20%20/static/css/main.f6265692.css",
+    "main.js": "/adityak14.github.io%20%20/static/js/main.b62c7e9e.js",
+    "static/media/pizzamania.jpg": "/adityak14.github.io%20%20/static/media/pizzamania.288fa1724a823f0b30d4.jpg",
+    "static/media/Carenet.jpg": "/adityak14.github.io%20%20/static/media/Carenet.5f5771f10c7d1300a2ac.jpg",
+    "static/media/react.png": "/adityak14.github.io%20%20/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/adityak14.github.io%20%20/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/adityak14.github.io%20%20/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/logo1.png": "/adityak14.github.io%20%20/static/media/logo1.7ed42caf1761f7568a18.png",
+    "static/media/html.png": "/adityak14.github.io%20%20/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/adityak14.github.io%20%20/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/adityak14.github.io%20%20/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/adityak14.github.io%20%20/index.html",
+    "main.f6265692.css.map": "/adityak14.github.io%20%20/static/css/main.f6265692.css.map",
+    "main.b62c7e9e.js.map": "/adityak14.github.io%20%20/static/js/main.b62c7e9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6265692.css",
+    "static/js/main.b62c7e9e.js"
+  ]
+}
