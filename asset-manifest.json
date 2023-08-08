@@ -1,22 +1,27 @@
 {
   "files": {
     "main.css": "./static/css/main.f6265692.css",
-    "main.js": "./static/js/main.11b867e3.js",
+    "main.js": "./static/js/main.10759a8e.js",
     "static/media/pizzamania.jpg": "./static/media/pizzamania.288fa1724a823f0b30d4.jpg",
+    "static/media/flask.png": "./static/media/flask.42288b18a6a5ec721c0f.png",
     "static/media/Carenet.jpg": "./static/media/Carenet.5f5771f10c7d1300a2ac.jpg",
+    "static/media/typescript.png": "./static/media/typescript.1e3902edbe4c3f2970d8.png",
+    "static/media/python.png": "./static/media/python.1218f71d9cd1aefc350d.png",
     "static/media/react.png": "./static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "./static/media/aws.95bdee6b9922c9b94fd5.png",
     "static/media/node.png": "./static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/mongo.png": "./static/media/mongo.2a1528ddc31d4ce8518d.png",
-    "static/media/logo1.png": "./static/media/logo1.7ed42caf1761f7568a18.png",
     "static/media/html.png": "./static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/css.png": "./static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/cprog.jpg": "./static/media/cprog.7880c1732d47299f59e7.jpg",
+    "static/media/logo.png": "./static/media/logo.6ad4f39cb2b6f9caaf0a.png",
     "static/media/javascript.png": "./static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "./index.html",
     "main.f6265692.css.map": "./static/css/main.f6265692.css.map",
-    "main.11b867e3.js.map": "./static/js/main.11b867e3.js.map"
+    "main.10759a8e.js.map": "./static/js/main.10759a8e.js.map"
   },
   "entrypoints": [
     "static/css/main.f6265692.css",
-    "static/js/main.11b867e3.js"
+    "static/js/main.10759a8e.js"
   ]
 }
