@@ -533,35 +533,83 @@ img {
 }
 
 .skills__python {
-  width: 60%;
+  width: 85%;
 }
 
-.skills__tab {
+.skills__r {
   width: 70%;
 }
 
 .skills__sql {
-  width: 50%;
-}
-
-.skills__google {
-  width: 70%;
-}
-
-.skills__bank {
   width: 80%;
 }
 
-.skills__google {
+.skills__pandas {
+  width: 75%;
+}
+
+.skills__numpy {
   width: 70%;
 }
 
-.skills__counter {
+.skills__excel {
+  width: 75%;
+}
+
+.skills__java {
   width: 80%;
 }
 
-.skills__office {
-  width: 90%;
+.skills__javascript {
+  width: 75%;
+}
+
+.skills__html {
+  width: 85%;
+}
+
+.skills__node {
+  width: 70%;
+}
+
+.skills__react {
+  width: 60%;
+}
+
+.skills__flask {
+  width: 80%;
+}
+
+.skills__django {
+  width: 65%;
+}
+
+.skills__mysql {
+  width: 75%;
+}
+
+.skills__postresql {
+  width: 80%;
+}
+
+.skills__mongo {
+  width: 80%;
+}
+
+.skills__dockers {
+  width: 70%;
+}
+
+.skills__kubernetes {
+  width: 70%;
+}
+
+.skills__git {
+  width: 85%;
+}
+
+.skills__linux {
+  width: 60%;
 }
 
 .skills__close .skills__list {
